@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1386-cinema-seat-allocation) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1927-sum-game) |
+| [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1872-stone-game-viii) |
 | [1922-count-good-numbers](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1927-sum-game) |
+| [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3869-count-fancy-numbers-in-a-range](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/3869-count-fancy-numbers-in-a-range) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1922-count-good-numbers](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1922-count-good-numbers) |
+| [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
 |  |
