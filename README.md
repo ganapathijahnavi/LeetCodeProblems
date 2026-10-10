@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0090-subsets-ii) |
+| [0779-k-th-symbol-in-grammar](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1386-cinema-seat-allocation](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Simulation
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0779-k-th-symbol-in-grammar) |
 | [0836-rectangle-overlap](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0836-rectangle-overlap) |
 | [1872-stone-game-viii](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1872-stone-game-viii) |
 | [1922-count-good-numbers](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1922-count-good-numbers) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1922-count-good-numbers](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1922-count-good-numbers) |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/3483-unique-3-digit-even-numbers) |
