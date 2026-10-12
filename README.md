@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0904-fruit-into-baskets) |
 | [1386-cinema-seat-allocation](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1386-cinema-seat-allocation) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 ## Bit Manipulation
@@ -52,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0090-subsets-ii) |
 | [0779-k-th-symbol-in-grammar](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1386-cinema-seat-allocation](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1386-cinema-seat-allocation) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Simulation
 |  |
