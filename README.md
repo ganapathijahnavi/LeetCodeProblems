@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0090-subsets-ii) |
 | [0435-non-overlapping-intervals](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0435-non-overlapping-intervals) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0047-permutations-ii) |
 | [0435-non-overlapping-intervals](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0435-non-overlapping-intervals) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0090-subsets-ii) |
 ## Stack
