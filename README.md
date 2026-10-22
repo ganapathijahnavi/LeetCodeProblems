@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0835-image-overlap) |
 | [0904-fruit-into-baskets](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0912-sort-an-array) |
+| [1049-last-stone-weight-ii](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1049-last-stone-weight-ii) |
 | [1386-cinema-seat-allocation](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1386-cinema-seat-allocation) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0435-non-overlapping-intervals) |
+| [1049-last-stone-weight-ii](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1049-last-stone-weight-ii) |
 | [1872-stone-game-viii](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -261,8 +263,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
