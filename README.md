@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0518-coin-change-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0835-image-overlap) |
 | [0904-fruit-into-baskets](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0912-sort-an-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0518-coin-change-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0746-min-cost-climbing-stairs) |
 | [1049-last-stone-weight-ii](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1137-n-th-tribonacci-number) |
 | [1872-stone-game-viii](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1872-stone-game-viii) |
