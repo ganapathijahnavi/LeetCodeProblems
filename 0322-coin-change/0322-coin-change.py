@@ -3,8 +3,8 @@ class Solution:
         int_max = float("inf") 
         n = len(arr)
         dp = [[0 for _ in range(s+1)]for _ in range(n+1)]
-        for i in range(n + 1):
-            dp[i][0] = 0
+        # for i in range(n + 1):
+        #     dp[i][0] = 0
         for j in range(1,s+1):
             dp[0][j] = int_max
         for i in range(1,n+1):
