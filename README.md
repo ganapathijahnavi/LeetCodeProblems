@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0090-subsets-ii) |
+| [0322-coin-change](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0494-target-sum) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0494-target-sum) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0518-coin-change-ii) |
@@ -280,5 +283,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0518-coin-change-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
