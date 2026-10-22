@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0518-coin-change-ii) |
 | [0835-image-overlap](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0835-image-overlap) |
 | [0904-fruit-into-baskets](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0912-sort-an-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0518-coin-change-ii) |
 | [1049-last-stone-weight-ii](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1049-last-stone-weight-ii) |
 | [1872-stone-game-viii](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0518-coin-change-ii) |
 | [1049-last-stone-weight-ii](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
@@ -274,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1049-last-stone-weight-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
