@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0779-k-th-symbol-in-grammar) |
 | [0836-rectangle-overlap](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0836-rectangle-overlap) |
+| [1137-n-th-tribonacci-number](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1137-n-th-tribonacci-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1872-stone-game-viii](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1872-stone-game-viii) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0518-coin-change-ii) |
 | [1049-last-stone-weight-ii](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1049-last-stone-weight-ii) |
+| [1137-n-th-tribonacci-number](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1137-n-th-tribonacci-number) |
 | [1872-stone-game-viii](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -299,4 +301,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
