@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1143-longest-common-subsequence) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1592-rearrange-spaces-between-words](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1592-rearrange-spaces-between-words) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1927-sum-game](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0904-fruit-into-baskets) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Counting
 |  |
