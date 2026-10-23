@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0146-lru-cache) |
 | [0904-fruit-into-baskets](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0904-fruit-into-baskets) |
 | [1386-cinema-seat-allocation](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1386-cinema-seat-allocation) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1592-rearrange-spaces-between-words](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1592-rearrange-spaces-between-words) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1927-sum-game](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1927-sum-game) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
