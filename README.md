@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0494-target-sum](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0746-min-cost-climbing-stairs) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0779-k-th-symbol-in-grammar) |
 | [0836-rectangle-overlap](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0836-rectangle-overlap) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0047-permutations-ii) |
 | [0435-non-overlapping-intervals](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0435-non-overlapping-intervals) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0912-sort-an-array](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0912-sort-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
