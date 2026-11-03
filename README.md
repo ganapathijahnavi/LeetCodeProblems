@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 ## Hash Table
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3869-count-fancy-numbers-in-a-range](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/3869-count-fancy-numbers-in-a-range) |
 | [3870-count-commas-in-range](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/3871-count-commas-in-range-ii) |
