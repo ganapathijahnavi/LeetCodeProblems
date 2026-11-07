@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1872-stone-game-viii](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1882-process-tasks-using-servers) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0912-sort-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Binary Indexed Tree
