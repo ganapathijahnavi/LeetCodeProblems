@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0912-sort-an-array) |
 | [1049-last-stone-weight-ii](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1049-last-stone-weight-ii) |
+| [1267-count-servers-that-communicate](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1386-cinema-seat-allocation) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1267-count-servers-that-communicate) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1267-count-servers-that-communicate) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sorting
 |  |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -252,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0835-image-overlap) |
+| [1267-count-servers-that-communicate](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1267-count-servers-that-communicate) |
 ## Geometry
 |  |
 | ------- |
@@ -333,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/0322-coin-change) |
+| [1267-count-servers-that-communicate](https://github.com/ganapathijahnavi/LeetCodeProblems/tree/master/1267-count-servers-that-communicate) |
 ## Memoization
 |  |
 | ------- |
